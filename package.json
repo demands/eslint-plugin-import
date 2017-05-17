@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-import",
+  "name": "@demands/eslint-plugin-import",
   "version": "2.2.0",
   "description": "Import with sanity.",
   "engines": {
